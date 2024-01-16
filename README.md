@@ -1,6 +1,6 @@
 # :bike: Maciej Mądry
 
-** Web Developer**
+**`WEB DEVELOPER`**
 
 I'm a budding frontend developer with a profound enthusiasm for crafting digital projects from the ground up. The opportunity to make something out of nothing, is an aspect of programming that truly captivates me. My current focus revolves around delving into new technologies to elevate my skills and stay abreast of the latest developments in the programming world. I'm deeply passionate about translating ideas into web realities, and I'm particularly intrigued by the intersection of programming with my other love — cycling. This fusion inspired the creation of COVELO, a project that I'm pround the most. I'd greatly appreciate your opinion after checking it out!
 
