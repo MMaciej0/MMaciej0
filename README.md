@@ -2,7 +2,7 @@
 
 **`Web developer`**
 
-I'm a budding frontend developer with a profound enthusiasm for crafting digital projects from the ground up. The opportunity to make something out of nothing, is an aspect of programming that truly captivates me. I'm particularly intrigued by the intersection of programming with my other love — cycling. This fusion inspired the creation of [COVELO](https://github.com/MMaciej0/co-velo), a project that I'm pround the most. I'd greatly appreciate your opinion after checking it out!
+I'm a budding frontend developer with a profound enthusiasm for crafting digital projects from the ground up. The opportunity to make something out of nothing, is an aspect of programming that truly captivates me. I'm particularly intrigued by the intersection of programming with my other love — cycling. This fusion inspired the creation of [COVELO](https://github.com/MMaciej0/co-velo), a project that I'm proud the most. I'd greatly appreciate your opinion after checking it out!
 
 ---
 
