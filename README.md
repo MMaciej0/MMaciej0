@@ -6,6 +6,7 @@ I'm a budding frontend developer with a profound enthusiasm for crafting digital
 
 * 🌍  I'm based in Kraków
 * ✉️  You can contact me at [maciejmadry0@gmail.com](mailto:maciejmadry0@gmail.com)
+* 💻  Visit my portfolio [https://maciej-madry.vercel.app/](https://maciej-madry.vercel.app/)
 * 🧠  I'm learning Next.js & Typescript
 * 🤝  I'm open to collaborating on any project, where i can learn new things
 
