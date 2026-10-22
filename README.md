@@ -1,6 +1,6 @@
-# 🚴 Maciej Mądry
+# Maciej Mądry
 
-Full-stack developer from Kraków. I like building things end to end, from the database to the UI. When I'm not coding, I'm usually on my bike, so my main project mixes both.
+Full-stack developer from Kraków. I like building things end to end, from the database to the UI. I enjoy cycling in my free time, and Loopra is a project that mixes it with code.
 
 ### 🔨 [Loopra](https://github.com/MMaciej0/loopra)
 
